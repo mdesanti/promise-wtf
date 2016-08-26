@@ -1,3 +1,4 @@
+'use strict';
 /**
  * Promise
  * Lightweight Promise implementation with the 'finally' method
